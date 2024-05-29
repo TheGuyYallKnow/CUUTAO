@@ -1,5 +1,5 @@
 # CUUTAO
-AIBIKGIDAU BAI NAY tiệm cận 99% TestCase 'EndGame' của Võ Tiến. USE AS UR OWN RISK
+AIBIKGIDAU BAI NAY tiệm cận 99% TestCase 'EndGame' của Võ Tiến. USE AS UR OWN RISK. Tải về đi 7h xóa
 
 - Sửa tên biến.
 - Đảo Hàm nhiều lên please!
